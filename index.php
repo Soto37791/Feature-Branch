@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Ya se solucionó el error</h1>
 </body>
 </html>
+
